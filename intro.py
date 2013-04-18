@@ -38,3 +38,4 @@ if key == 27:
 if key == ord('n'):
 	endwin()
 	import firstlevel
+	
